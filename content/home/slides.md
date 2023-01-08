@@ -21,7 +21,7 @@ content:
     tag: ''
     category: ''
     publication_type: ''
-    author: ''
+    author: 'nilecui'
     exclude_featured: false
     exclude_future: false
     exclude_past: false
