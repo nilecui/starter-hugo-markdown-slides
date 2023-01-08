@@ -6,7 +6,6 @@ main:
     url: /python
     weight: 10 
   - name: Data
-    parent: tags
     url: /Data
     weight: 20
   - name: TiDB
