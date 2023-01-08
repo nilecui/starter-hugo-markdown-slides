@@ -64,9 +64,9 @@ locale:
 features:
   privacy_pack:
     enable: false
-  syntax_highlighter:
-    theme_light: xcode-light
-    theme_dark: xcode-dark
+  # syntax_highlighter:
+  #   theme_light: xcode-light
+  #   theme_dark: xcode-dark
 
 # Security
 
