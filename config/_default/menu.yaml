@@ -3,8 +3,16 @@ main:
     url: /
     weight: 1
   - name: python
-    url: /posts/python
-    weight: 1  
+    url: /python
+    weight: 10 
+  - name: Data
+    parent: tags
+    url: /Data
+    weight: 20
+  - name: TiDB
+    parent: Data
+    url: /Data/TiDB
+    weight: 21
   - name: About
     url: about/
-    weight: 20
+    weight: 50
