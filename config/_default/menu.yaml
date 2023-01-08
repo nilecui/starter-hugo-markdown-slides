@@ -3,28 +3,28 @@ main:
     url: /
     weight: 1
   - name: python
-    url: /python
+    url: python
     weight: 10 
 
 
   - name: DataBase
-    url: /DataBase
+    url: DataBase
     weight: 20
   - name: TiDB
     parent: DataBase
-    url: /DataBase/TiDB
+    url: DataBase/TiDB/
     weight: 21
   - name: Milvus
     parent: DataBase
-    url: /DataBase/Milvus
+    url: DataBase/Milvus/
     weight: 22
   - name: MongoDB
     parent: DataBase
-    url: /DataBase/MongoDB
+    url: DataBase/MongoDB/
     weight: 23
   - name: ES
     parent: DataBase
-    url: /DataBase/ES
+    url: DataBase/ES/
     weight: 24
   - name: About
     url: about

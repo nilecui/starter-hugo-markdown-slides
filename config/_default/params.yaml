@@ -46,11 +46,11 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} NileCui. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
@@ -64,6 +64,15 @@ locale:
 features:
   privacy_pack:
     enable: false
+  syntax_highlighter:
+    theme_light: xcode-light
+    theme_dark: xcode-dark
+    math: true
+  search:
+    provider: wowchemy
+    wowchemy:
+      min_length: 1  # Only the matches whose length exceeds this value will be returned.
+      threshold: 0.3  # Where 0 requires a perfect match and 1 matches anything.
 
 # Security
 
