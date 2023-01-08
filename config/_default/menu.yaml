@@ -1,7 +1,10 @@
 main:
   - name: Home
     url: /
-    weight: 10
+    weight: 1
+  - name: python
+    url: /posts/python
+    weight: 1  
   - name: About
     url: about/
     weight: 20
