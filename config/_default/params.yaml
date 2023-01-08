@@ -67,6 +67,11 @@ features:
   # syntax_highlighter:
   #   theme_light: xcode-light
   #   theme_dark: xcode-dark
+  search:
+    provider: wowchemy
+    wowchemy:
+      min_length: 1  # Only the matches whose length exceeds this value will be returned.
+      threshold: 0.3  # Where 0 requires a perfect match and 1 matches anything.
 
 # Security
 
