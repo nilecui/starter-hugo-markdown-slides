@@ -1,4 +1,3 @@
-
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -10,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: 崔维铁的博客
+title: Nilecui's Blog
 subtitle:
 
 content:
