@@ -10,8 +10,7 @@ authors:
 tags:
   - python
 categories:
-  - Demo
-  - 教程
+  - python
 image:
   filename: a.jpg
   caption: "Image credit: [**Unsplash**](a.jpg)"
