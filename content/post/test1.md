@@ -13,7 +13,7 @@ categories:
   - Demo
   - 教程
 image:
-  filename: ""
+  filename: a.jpg
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
 ---
 
