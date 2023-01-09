@@ -1,13 +1,3 @@
-<!--
- * @Author: nilecui
- * @Date: 2023-01-09 16:12:45
- * @LastEditors: nilecui
- * @LastEditTime: 2023-01-09 16:12:45
- * @FilePath: /kafka_wk/hugo_wk/starter-hugo-markdown-slides/content/post/test1.md
- * @Description: 
- * Details do not determine success or failure!
- * Copyright (c) 2023 by nilecui, All Rights Reserved. 
--->
 ---
 title: Richard Hendricks Wins First Place in the Wowchemy Prize
 date: 2020-12-01
