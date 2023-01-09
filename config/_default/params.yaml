@@ -37,7 +37,7 @@ header:
     show_logo: true
     # Show a language chooser (if you have translated your site content)?
     show_translations: true
-    show_language: false
+    show_language: true
     show_day_night: true
     show_search: true
     highlight_active_link: true
@@ -74,8 +74,14 @@ features:
       min_length: 1  # Only the matches whose length exceeds this value will be returned.
       threshold: 0.3  # Where 0 requires a perfect match and 1 matches anything.
 
-# Security
+extensions:
+  cms:
+    branch: main
+    local_backend: false
+  academicons:
+    enable: true
 
+# Security
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
