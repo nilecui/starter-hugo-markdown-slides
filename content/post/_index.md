@@ -15,7 +15,7 @@ header:
   
 sections:
   - block: collection
-      id: posts
+      id: post
       content:
         title: Recent Posts
         subtitle: ''
