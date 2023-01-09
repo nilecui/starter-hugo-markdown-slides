@@ -13,7 +13,10 @@ image:
   caption: "Image credit: [**Unsplash**](a.jpg)"
   focal_point: 'top'
 ---
----
+
+
+![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://bxdc-static.oss-cn-beijing.aliyuncs.com/images/blog-logo-new.png)
+
 
 Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
 
