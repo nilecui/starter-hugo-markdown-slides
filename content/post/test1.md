@@ -21,10 +21,7 @@ import libr
 print('hello')
 ```
 
-![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](a.jpg)
-
-![](a.jpg)
-
+![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://bxdc-static.oss-cn-beijing.aliyuncs.com/images/blog-logo-new.png)
 
 
 ## Overview
