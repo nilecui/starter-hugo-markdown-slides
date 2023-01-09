@@ -13,3 +13,7 @@ header:
   caption: ""
   image: "assets/media/logo.png"
 ---
+
+# add images
+
+![screen reader text](logo.png "caption")
