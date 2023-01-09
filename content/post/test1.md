@@ -1,6 +1,17 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: python-test
+subtitle: Congratulations to Richard Hendricks for winning first place in the
+  Wowchemy Prize.
+date: 2020-11-30T16:00:00.000Z
+summary: Congratulations to Richard Hendricks for winning first place in the
+  Wowchemy Prize.
+authors:
+  - nilecui
+tags:
+  - python
+image:
+  filename: https://unsplash.com/photos/CpkOjOcXdUY
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
 ---
 
 Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
