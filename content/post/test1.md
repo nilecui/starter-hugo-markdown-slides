@@ -13,8 +13,10 @@ categories:
   - Demo
   - 教程
 image:
-  filename: a.jpg
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
+  filename: null
+  caption: "Image credit:
+    [**Unsplash**](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-mod\
+    ules/main/starters/academic/preview.png)"
 ---
 
 ```python
