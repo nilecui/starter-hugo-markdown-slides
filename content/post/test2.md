@@ -1,9 +1,21 @@
+<!--
+ * @Author: nilecui
+ * @Date: 2023-01-09 16:12:54
+ * @LastEditors: nilecui
+ * @LastEditTime: 2023-01-09 16:12:54
+ * @FilePath: /kafka_wk/hugo_wk/starter-hugo-markdown-slides/content/post/test2.md
+ * @Description: 
+ * Details do not determine success or failure!
+ * Copyright (c) 2023 by nilecui, All Rights Reserved. 
+-->
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
+date: 2020-12-02
+image:
+  focal_point: 'top'
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
 
 <!--more-->
 
@@ -12,8 +24,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue no
 Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
 
 Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
-
-
-![screen reader text](logo.png "caption")
-
-
