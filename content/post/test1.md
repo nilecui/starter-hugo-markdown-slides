@@ -14,7 +14,7 @@ categories:
   - 教程
 image:
   filename: a.jpg
-  caption: "Image credit: [**Unsplash**](a.jpg)"
+  caption: "Image credit: [**Unsplash**](https://bxdc-static.oss-cn-beijing.aliyuncs.com/images/blog-logo-new.png)"
 ---
 ```python
 import libr
